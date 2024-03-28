@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Lancuoicung-son\\son\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|d:\\c#\\lancuoicung-son\\son\\chuongtrinhquanlykytuxa_version3\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|solutionrelative:chuongtrinhquanlykytuxa_version3\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|d:\\c#\\lancuoicung-son\\son\\chuongtrinhquanlykytuxa_version3\\danhchoquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|solutionrelative:chuongtrinhquanlykytuxa_version3\\danhchoquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|d:\\c#\\lancuoicung-son\\son\\chuongtrinhquanlykytuxa_version3\\allemployeeworking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|solutionrelative:chuongtrinhquanlykytuxa_version3\\allemployeeworking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|D:\\C#\\Lancuoicung-son\\son\\chuongtrinhquanlykytuxa_version3\\admin_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|solutionrelative:chuongtrinhquanlykytuxa_version3\\admin_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|D:\\C#\\Lancuoicung-son\\son\\chuongtrinhquanlykytuxa_version3\\student_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|solutionrelative:chuongtrinhquanlykytuxa_version3\\student_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|D:\\C#\\Lancuoicung-son\\son\\chuongtrinhquanlykytuxa_version3\\student_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|solutionrelative:chuongtrinhquanlykytuxa_version3\\student_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|D:\\C#\\Lancuoicung-son\\son\\chuongtrinhquanlykytuxa_version3\\student_payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA1604C-B5CF-49C4-BE98-3B6005A18D64}|ChuongTrinhQuanLyKyTuXa_Version3\\ChuongTrinhQuanLyKyTuXa_Version3.csproj|solutionrelative:chuongtrinhquanlykytuxa_version3\\student_payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Dashboard.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKyTuXa_Version3\\Dashboard.cs",
+              "ToolTip": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Dashboard.cs [Design]",
+              "RelativeToolTip": "ChuongTrinhQuanLyKyTuXa_Version3\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:54:31.174Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhChoQuanLy.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\DanhChoQuanLy.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKyTuXa_Version3\\DanhChoQuanLy.cs",
+              "ToolTip": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\DanhChoQuanLy.cs [Design]",
+              "RelativeToolTip": "ChuongTrinhQuanLyKyTuXa_Version3\\DanhChoQuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:54:26.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllEmployeeWorking.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\AllEmployeeWorking.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKyTuXa_Version3\\AllEmployeeWorking.cs",
+              "ToolTip": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\AllEmployeeWorking.cs [Design]",
+              "RelativeToolTip": "ChuongTrinhQuanLyKyTuXa_Version3\\AllEmployeeWorking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:53:21.797Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin_Payment.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Admin_Payment.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKyTuXa_Version3\\Admin_Payment.cs",
+              "ToolTip": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Admin_Payment.cs [Design]",
+              "RelativeToolTip": "ChuongTrinhQuanLyKyTuXa_Version3\\Admin_Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:53:18.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student_Payment.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.Designer.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.Designer.cs",
+              "ToolTip": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.Designer.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.Designer.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAYwNQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:52:21.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student_Payment.cs",
+              "DocumentMoniker": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.cs",
+              "ToolTip": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAYwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:52:17.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student_Payment.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.cs",
+              "ToolTip": "D:\\C#\\Lancuoicung-son\\son\\ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.cs [Design]",
+              "RelativeToolTip": "ChuongTrinhQuanLyKyTuXa_Version3\\Student_Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:52:15.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
